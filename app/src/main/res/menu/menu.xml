@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_view"
+        android:title="Prikaži detalje" />
+    <item android:id="@+id/action_dnevnik" android:title="Adresa" />
+    <item android:id="@+id/action_delete" android:title="Menu" />
+    <item android:id="@+id/action_chat" android:title="Recenzije"/>
+
+</menu>
